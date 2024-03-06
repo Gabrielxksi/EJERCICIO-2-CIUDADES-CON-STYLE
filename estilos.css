@@ -1,0 +1,37 @@
+
+div.contendor{
+width: 100%;
+border: 1px solid gray; }
+
+ header, footer {
+padding: 1 em;
+color: pink;
+background-color: brown;
+clear: left;
+text-aling: center; }
+
+ nav {
+float: left;
+max-width: 160px;
+margin: 0;
+padding: 1em;
+}
+
+nav ul {
+list-style-type: none;
+padding: 0;
+    }
+
+nav ul a {
+text-decoration: nome;
+}
+
+
+article {
+margin-left: 170px;
+border-left: 1px solid gray;
+padding: 1 em;
+overflow: hidden;
+}
+ 
+ 
